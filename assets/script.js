@@ -16,5 +16,5 @@ const getQuote = async () => {
 
 //   console.log(item);
 };
-// nextBtn.addEventListener('click',getQuote)
+nextBtn.addEventListener('click',getQuote)
 getQuote();
