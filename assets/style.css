@@ -74,3 +74,16 @@ hr {
     border-radius: 4px;
 
 }
+.btns .next-quote{
+    cursor: pointer;
+    border: none;
+    color: var(--secondary-color);
+    font-weight: 700;
+    font-size: 20px;
+    background-color: var(--primary-color);
+    padding: 10px;
+    border-radius: 4px;
+}
+button:focus {
+    outline: none;
+}
