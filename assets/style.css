@@ -10,11 +10,13 @@
     font-family: 'Montserrat', sans-serif;
 
 }
-:root{
+
+:root {
     --primary-color: #364ba7;
     --secondary-color: #f583a7;
 }
-body{
+
+body {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,14 +24,27 @@ body{
     /* background-color: whitesmoke; */
 
 }
-.main-container{
+
+.main-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0, 0.6);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
     border-radius: 10px;
     width: 600px;
     /* background-color: #504aa7; */
     margin: 10px;
+}
+
+.fa-quote-left .fa-solid .fa-copy {
+    font-size: 84px;
+    color: var(--secondary-color);
+
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+    color: var(--primary-color);
 }
