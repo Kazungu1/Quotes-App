@@ -11,7 +11,7 @@ const getQuote = async () => {
   const authorName =item.author;
   text.innerText = quote;
   author.innerText = authorName;
-  tweetButton.href=`https://twitter.com/intent/tweet?text=${quote}-${authorName}`
+//   tweetButton.href=`https://twitter.com/intent/tweet?text=${quote}-${authorName}`
 
 
 //   console.log(item);
