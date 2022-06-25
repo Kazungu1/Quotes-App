@@ -13,10 +13,9 @@ People tend to read quotes from various people to get encouraged, improve gramma
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
-* Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
+* HTML, CSS, JavaScript
+* Text Editor with necessary extensions
+
 
 
 ### Getting Files
