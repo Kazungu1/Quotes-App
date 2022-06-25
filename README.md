@@ -6,8 +6,9 @@
 People tend to read quotes from various people to get encouraged, improve grammar and also understand different cultures from different parts of the world. This web application several quotes from different people that individuals might find interesting to read.
 
 ## SCREENSHOTS
-- link 1
-- link 2
+- 
+![Screenshot from 2022-06-25 08-03-48](https://user-images.githubusercontent.com/51753883/175758990-dbf7d15e-6a88-4e75-b7a0-05d8d205dce1.png)
+- 
 
 
 ********
